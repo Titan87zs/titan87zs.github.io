@@ -1,153 +1,182 @@
 {
-  "name": "Firefly",
-  "version": "1.2",
-  "description": "Firefly",
-  "color": "#000000",
-  "authors": [
-    {
-      "name": "titan",
-      "id": "866159668022738984"
-    }
-   ],
-   "theme_color_map": {
-      "KEYBOARD": [
-         "#111111",
-         "#FFFFFF"
-      ],
-      "HEADER_PRIMARY": [
-         "#FBFBFB",
-         "#060607"
-      ],
-      "HEADER_SECONDARY": [
-         "#B6B6B6",
-         "#4F5660"
-      ],
-      "TEXT_NORMAL": [
-         "#FBFBFB",
-         "#2E3338"
-      ],
-      "TEXT_MUTED": [
-         "#B6B6B6",
-         "#747F8D"
-      ],
-      "INTERACTIVE_NORMAL": [
-         "#C8C8C8",
-         "#4F5660"
-      ],
-      "INTERACTIVE_HOVER": [
-         "#DCDDDE",
-         "#2E3338"
-      ],
-      "INTERACTIVE_ACTIVE": [
-         "#FFFFFF",
-         "#060607"
-      ],
-      "INTERACTIVE_MUTED": [
-         "#747474",
-         "#C7CCD1"
-      ],
-      "BACKGROUND_PRIMARY": [
-         "#141414",
-         "#FFFFFF"
-      ],
-      "BACKGROUND_SECONDARY": [
-         "#111111",
-         "#F2F3F5"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-         "#0E0E0E",
-         "#EBEDEF"
-      ],
-      "BACKGROUND_TERTIARY": [
-         "#0E0E0E",
-         "#E3E5E8"
-      ],
-      "BACKGROUND_ACCENT": [
-         "#292929",
-         "#747F8D"
-      ],
-      "BACKGROUND_FLOATING": [
-         "#090909",
-         "#FFFFFF"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-         "#141414",
-         "#F8F9F9"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-         "#111111",
-         "#FFFFFF"
-      ],
-      "BACKGROUND_NESTED_FLOATING": [
-         "#111111",
-         "#FFFFFF"
-      ],
-      "BACKGROUND_MESSAGE_HOVER": [
-         "rgba(255, 255, 255, 0.02)",
-         "#FFFFFF"
-      ],
-      "BACKGROUND_MODIFIER_HOVER": [
-         "rgba(255, 255, 255, 0.02)",
-         "hsla(214, 9.9%, 50.4%, 0.08)"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE": [
-         "rgba(255, 255, 255, 0.03)",
-         "hsla(214, 9.9%, 50.4%, 0.16)"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED": [
-         "rgba(255, 255, 255, 0.04)",
-         "hsla(214, 9.9%, 50.4%, 0.24)"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-         "rgba(255, 255, 255, 0.06)",
-         "hsla(240, 7.7%, 2.5%, 0.08)"
-      ],
-      "SCROLLBAR_THIN_THUMB": [
-         "#292929",
-         "hsla(217, 7.6%, 33.5%, 0.3)"
-      ],
-      "SCROLLBAR_THIN_TRACK": [
-         "transparent",
-         "hsla(0, 0%, 0%, 0)"
-      ],
-      "SCROLLBAR_AUTO_THUMB": [
-         "#292929",
-         "#CCCCCC"
-      ],
-      "SCROLLBAR_AUTO_TRACK": [
-         "rgba(0, 0, 0, 0.1)",
-         "#F2F2F2"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-         "transparent",
-         "#EBEDEF"
-      ],
-      "CHANNEL_ICON": [
-         "#B6B6B6",
-         "#6A7480"
-      ],
-      "CHANNELS_DEFAULT": [
-         "#B6B6B6",
-         "#6A7480"
-      ]
-   },
-   "colours": {
-      "PRIMARY_DARK": "#747474",
-      "PRIMARY_DARK_100": "#FFFFFF",
-      "PRIMARY_DARK_200": "#FFFFFF",
-      "PRIMARY_DARK_300": "#B6B6B6",
-      "PRIMARY_DARK_360": "#C8C8C8",
-      "PRIMARY_DARK_400": "#585858",
-      "PRIMARY_DARK_500": "#292929",
-      "PRIMARY_DARK_600": "#111111",
-      "PRIMARY_DARK_630": "#1F1F1F",
-      "PRIMARY_DARK_700": "#090909",
-      "PRIMARY_DARK_800": "#090909",
-      "PRIMARY_DARK_900": "#090909"
-   },
-  "background": {
-    "blur": 3.6,
-    "url": "https://raw.githubusercontent.com/Titan87zs/titan87zs.github.io/refs/heads/main/firefly-background.jpg",
-    "alpha": 0.88
-  }
+    "name": "Firefly",
+    "description": "Firefly",
+    "authors": [
+        {
+            "name": "Titan",
+            "id": "866159668022738984"
+        }
+    ],
+    "plus": {
+       "version": 1,
+       "mentionLineColor": "#6786CA",
+       "iconpack": "rosiecord-plumpy"
+  },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#5289D6"
+        ],
+        "HEADER_SECONDARY": [
+            "#5289D6"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_PRIMARY": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#5289D6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#5289D6"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#5289D6"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#F2A0EB"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#5289D6"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#F2A0EB"
+        ],
+        "BACKGROUND_MENTIONED": [ 
+            "rgba(103, 134, 202, 0.4)"
+       ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#F2A0EB"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#141414"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#141414"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#141414"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#222222"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#1ced20"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#1ced20"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#1ced20"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#1ced20"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#5289D6"
+        ],
+        "TEXT_LINK": [
+            "#F2A0EB"
+        ],
+        "TEXT_DANGER": [
+            "#F2A0EB"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#F2A0EB"
+        ],
+        "CHAT_BACKGROUND": [
+            "#141414"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#000000"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#141414"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#222222"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#141414"
+        ],
+        "BG_BACKDROP": [
+            "04010173"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#5289D6",
+        "PRIMARY_100": "#5289D6",
+        "PRIMARY_200": "#F2A0EB",
+        "PRIMARY_230": "#ffffff",
+        "PRIMARY_300": "#5289D6",
+        "PRIMARY_360": "#F2A0EB",
+        "PRIMARY_400": "#5289D6",
+        "PRIMARY_600": "#141414",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_645": "#141414",
+        "PRIMARY_660": "#141414",
+        "PRIMARY_700": "#141414",
+        "PRIMARY_800": "#000000",
+        "PLUM_1": "#ffffff",
+        "PLUM_3": "#6786CA",
+        "PLUM_6": "#6786CA",
+        "PLUM_9": "#ffffff",
+        "PLUM_10": "#A4A4A4",
+        "PLUM_11": "#000000",
+        "PLUM_13": "#4C6396",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#000000",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#000000",
+        "PLUM_24": "#000000",
+        "BRAND_260": "#F2A0EB",
+        "BRAND_360": "#F2A0EB",
+        "BRAND_500": "#5289D6",
+        "BRAND_560": "#5289D6",
+        "YELLOW_300": "#6786CA",
+        "YELLOW_260": "#6786CA",
+        "GREEN_600": "#141414",
+        "GREEN_360": "#5289D6",
+        "RED_400": "#b00b69",
+        "WHITE_500": "#f9f1f1"
+    },
+    
+    "background": {
+        "blur": 0.5,
+        "url": "https://raw.githubusercontent.com/Titan87zs/titan87zs.github.io/refs/heads/main/firefly-background.jpg",
+        "alpha": 0.7
+    },
+        "color": "#EA42CD"
 }
