@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Saira (Invisible Digits)",
+  "previewText": "The font is known from the game called Phigros",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://raw.githubusercontent.com/Titan87zs/titan87zs.github.io/main/kettu/font.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/Titan87zs/titan87zs.github.io/main/kettu/font.ttf",
+    "ggsans-Semibold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Medium.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-MediumItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Bold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/Titan87zs/titan87zs.github.io/main/kettu/font.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/Titan87zs/titan87zs.github.io/main/kettu/font.ttf",
+    "NotoSans-Semibold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Saira/Saira-Medium.ttf?raw=1"
+  }
+}
